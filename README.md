@@ -6,8 +6,8 @@
 
 node 20.x, npm 10.x
 
-# devDependencies
-
+# :wrench: devDependencies
+```
 "@types/react": "^18.2.15",
 "@types/react-dom": "^18.2.7",
 "@typescript-eslint/eslint-plugin": "^6.0.0",
@@ -21,7 +21,7 @@ node 20.x, npm 10.x
 "tailwindcss": "^3.4.17",
 "typescript": "^5.0.2",
 "vite": "^4.4.5"
-
+```
 # git
 ssh-key
 
